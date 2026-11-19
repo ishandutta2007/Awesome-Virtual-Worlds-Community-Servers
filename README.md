@@ -73,9 +73,9 @@ The table below catalogs premier hosted SaaS virtual worlds, sorted descending b
 
 ## 💻 Open-Source Community Servers & Engines
 
-Every open-source virtual world server, WebXR metaverse framework, and community engine is listed below. Sorted descending by **GitHub Stargazers Count**, with live social-style star badges linking directly to each repository's stargazers page.
+Every open-source virtual world server, WebXR metaverse framework, and community engine is listed below. Sorted descending by **GitHub Stargazers Count**, with live social-style Stars_Badges linking directly to each repository's stargazers page.
 
-| Repository & Link | GitHub Stars | Core Architecture & Stack | Primary Use Case & Capabilities |
+| Repository & Link | GitHub_Stars | Core Architecture & Stack | Primary Use Case & Capabilities |
 | :--- | :---: | :--- | :--- |
 | **[Godot Engine](https://github.com/godotengine/godot)** | [![Godot Stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers) | C++, GDScript, C#, Vulkan, WebXR | Feature-packed open-source 2D/3D game engine widely adopted for decentralized virtual worlds, multiplayer metaverse clients, and WebXR experiences. |
 | **[Three.js](https://github.com/mrdoob/three.js)** | [![Three.js Stars](https://img.shields.io/github/stars/mrdoob/three.js?style=social&color=white)](https://github.com/mrdoob/three.js/stargazers) | JavaScript, WebGL, WebGPU, WebXR | The standard 3D web rendering library powering the vast majority of in-browser virtual worlds, metaverse portals, and 3D avatar spaces. |
